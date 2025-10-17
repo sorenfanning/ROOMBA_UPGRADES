@@ -21,7 +21,7 @@ The goal is to encourage learning, creativity, and community among Roomba hobbyi
 - Modular “personality” design  
 - Optional simulation mode  
 - Example behaviors and templates
-- 
+
 ---
 
 ## Technologies
