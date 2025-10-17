@@ -20,9 +20,8 @@ The goal is to encourage learning, creativity, and community among Roomba hobbyi
 - Control Roombas via serial or Bluetooth  
 - Modular “personality” design  
 - Optional simulation mode  
-- Example behaviors and templates  
-- Open community for sharing ideas  
-
+- Example behaviors and templates
+- 
 ---
 
 ## Technologies
@@ -35,36 +34,6 @@ The goal is to encourage learning, creativity, and community among Roomba hobbyi
 
 All dependencies use permissive open‑source licenses (MIT/BSD/Apache).
 
----
-
-## Getting Started
-```bash
-git clone https://github.com/yourname/roomba-personalities-suite.git
-cd roomba-personalities-suite
-pip install -r requirements.txt
-```
-
-Then connect your Roomba and run:
-```bash
-python run_personality.py --mode=follow
-```
-
----
-
-## Community
-Join others experimenting with Roomba behavior!  
-- GitHub Discussions: *(placeholder link)*  
-- Reddit: *(placeholder link)*  
-
-Share your personality modules, simulations, and creative experiments.
-
----
-
-## Contributing
-1. Fork the repo  
-2. Create a new branch (`git checkout -b new-feature`)  
-3. Add your code under `personalities/`  
-4. Submit a pull request  
 
 ---
 
